@@ -1,0 +1,28 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+London,51.5072,-0.1275,United Kingdom,GB,"London, City of",primary,10979000,8825001
+Birmingham,52.48,-1.9025,United Kingdom,GB,Birmingham,,2897303,1137100
+Manchester,53.4794,-2.2453,United Kingdom,GB,Manchester,,2705000,547627
+Leeds,53.7997,-1.5492,United Kingdom,GB,Leeds,,1901934,789194
+Newcastle,55.0077,-1.6578,United Kingdom,GB,Newcastle upon Tyne,,1650000,879996
+Glasgow,55.8609,-4.2514,United Kingdom,GB,Glasgow City,,985290,633120
+Liverpool,53.4,-2.9833,United Kingdom,GB,Liverpool,,864122,513441
+Portsmouth,50.8058,-1.0872,United Kingdom,GB,Portsmouth,,855679,238800
+Southampton,50.9,-1.4,United Kingdom,GB,Southampton,,855569,269781
+Nottingham,52.95,-1.15,United Kingdom,GB,Nottingham,,768638,321500
+Bristol,51.45,-2.5833,United Kingdom,GB,"Bristol, City of",,724000,463400
+Sheffield,53.3833,-1.4667,United Kingdom,GB,Sheffield,,685368,518090
+Kingston upon Hull,53.7444,-0.3325,United Kingdom,GB,"Kingston upon Hull, City of",,573300,260200
+Leicester,52.6333,-1.1333,United Kingdom,GB,Leicester,,508916,329839
+Edinburgh,55.953,-3.189,United Kingdom,GB,"Edinburgh, City of",,488050,488050
+Preston,53.759,-2.699,United Kingdom,GB,Lancashire,,122719,122719
+Halifax,53.725,-1.863,United Kingdom,GB,Calderdale,,88134,88134
+Carlisle,54.891,-2.944,United Kingdom,GB,Cumbria,,75306,75306
+Skipton,53.962,-2.017,United Kingdom,GB,North Yorkshire,,14623,14623
+Kendal,54.326,-2.745,United Kingdom,GB,Cumbria,,28586,28586
+Richmond,54.403,-1.737,United Kingdom,GB,North Yorkshire,,8413,8413
+Aviemore,57.194,-3.823,United Kingdom,GB,Highland,,3613,3240
+Fort William,56.8198,-5.1052,United Kingdom,GB,Highland,,10459,10175
+Inverness,57.4781,-4.2233,United Kingdom,GB,Highland,,70000,47290
+Aberdeen,57.15,-2.11,United Kingdom,GB,Aberdeen City,,214610,200680
+Exeter,50.7167,-3.5333,United Kingdom,GB,Devon,,124180,124180
+Bangor,54.66,-5.67,United Kingdom,GB,Ards and North Down,,61011,61011
