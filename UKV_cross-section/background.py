@@ -144,6 +144,8 @@ def x_sliceplot(filename,var_name,orog_fname,proj,lat,lon,cmap='viridis',add_tow
                           linewidth=2, color='grey', alpha=0.5, linestyle='--')
 
         gl.xlines = True
+        gl.top_labels = False
+        gl.right_labels = False
  
     if add_towns==True:
         locs = pd.read_csv('gb2.csv')
