@@ -47,6 +47,8 @@ for storm in storms:
         #adding header info to .storm_header in the data [e.g. try print(df.storm_header)]
         storm_header = 'start\t'+storm.split('\n')[0]
         df.storm_header = storm_header
+        #uncomment line below to save each storm as a separate csv file
+        #df.to_csv(storm_header.replace('\t','_')+'.csv')
         dfs.append(df)
      
         
